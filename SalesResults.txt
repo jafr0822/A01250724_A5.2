@@ -1,0 +1,5 @@
+Sales Total: 165235.37
+Elapsed Time: 0.008817672729492188
+Errors: 
+    Product Elotes was not found in the catalogue. Skipping item.
+    Product Frijoles was not found in the catalogue. Skipping item.
